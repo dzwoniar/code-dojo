@@ -1,0 +1,7 @@
+today.md
+journal.md
+.env
+.env.*
+!.env.example
+node_modules/
+*.log
